@@ -1,87 +1,16 @@
 ---
 layout: page
-title: About Pixyll
+title: About Keokee
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+**Thanks for checking out our blog!** We intend it to be a little window into our company's work and happenings, for our clients and anyone else (why hello, competitors!). We'll also share resources and marketing tips and industry news we judge of interest.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+<img class="alignleft" alt="Keokee sign" src="/images/KeokeeSign.jpg" /> **Keokee is a media and marketing company in Sandpoint, Idaho.**  Founded in 1990, we publish proprietary books and magazines and websites, plus offer our services for hire. About half our work is providing services to clients who need custom publishing, website development and hosting, graphic design, social and search marketing and just about any kind of graphic design and creative services.
 
-Thanks to the following:
+Find out who runs the blog (and company), meet <a href="/our-bloggers/" title="Our Bloggers">Our Bloggers &raquo;</a>
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+If you haven't already, see more about our company and examples of our work at <a title="Keokee Co. Publishing, Inc." href="http://keokee.com">Keokee.com»</a>
 
-List of contributors:
-
-- Aaron S. Hawley
-- Adam Menges
-- Alex Claman
-- Alex Johnson
-- Alex Touchet
-- Allister Antosik
-- Amin Bandali
-- Anders Nissen
-- Andrea Margiovanni
-- Andrzej Ośmiałowski
-- Anuj More
-- Arvind Chembarpu
-- Assaf Gelber
-- Barry vd. Heuvel
-- Bartek Krzemień
-- Bartek Krzemień
-- Bennett Rogers
-- Brian Gaid
-- Brian Hurst
-- Chee Yeo
-- Cody Chan
-- Cristian Henrique
-- David Ernst
-- Donate Altenburger
-- Fernando Mantoan
-- Gurchet Rai
-- Harish Narayanan
-- Jehan Tremback
-- Jiaxi Gu (Isaac)
-- John Otander
-- Jordan Danielewski
-- Josh Buxton
-- Kirill Kulikov
-- Kyle Maxwell
-- Marta Sztybor
-- Martin Wagner
-- Matthew Graybosch
-- Maxim Tsoy
-- Mete Balci
-- Mike Lloyd
-- Mikhail Grachev
-- mindwind
-- Nick Rakochy
-- Nikolay Georgiev
-- Oliver Hamlet
-- Onur (e0i)
-- Praveer Gupta
-- Rassol (Karmeye)
-- Ricky Han
-- Roberto Pesando
-- Ryan Jacobs
-- Scott Martin
-- Selim Eren Bekçe
-- Shruti Rijhwani
-- Steef Hegeman
-- Tehmasp Chaudhri
-- Thomas Galvin
-- Timothy Gu
-- Tom Kraak
-- Vishnu Ks
-- Vladislav Arbatov
-- Yaroslav Yadrishnikov
-- Yee Chie Tu
-- Yeou Chien
+We're happy to answer questions and have conversations here on the blog, but to direct-message us or inquire about our services go to our <a title="Contact Keokee" href="http://keokee.com/contact/">Contact Page »</a>
