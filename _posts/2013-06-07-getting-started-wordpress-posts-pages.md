@@ -33,7 +33,7 @@ In the <a title="Getting started with WordPress: An intro" href="/getting-starte
 <h2>Exploring the Editing Screen</h2>
 The main menu in Wordpress is located on the left side of the screen.
 
-<a href="/images/DashboardMenuCircled.png"><img class="aligncenter" alt="Dashboard Menu" src="/images/DashboardMenuCircled.png" /></a>
+<a data-mediabox href="/images/DashboardMenuCircled.png"><img class="aligncenter" alt="Dashboard Menu" src="/images/DashboardMenuCircled.png" /></a>
 
 Posts and Pages are listed here, near the top. Any special types of content (custom post types) will also be listed here (examples of custom posts might be: Staff Member Profiles, Products, etc.) From the menu, we can view all of the posts/pages, add new ones and view existing categories and tags.
 
@@ -41,13 +41,13 @@ We'll start by editing an existing Page. To do this, click on "Pages" or "Pages 
 
 If your site is brand new, you may have only a "Sample Page." If someone set up your site for you, you may have other pages listed.
 
-<a href="/images/PagesList.png"><img class="aligncenter" alt="Pages List" src="/images/PagesList.png" /></a>
+<a data-mediabox href="/images/PagesList.png"><img class="aligncenter" alt="Pages List" src="/images/PagesList.png" /></a>
 
 To edit any of the listed pages, click on its name, or highlight its name and select "Edit". (Again, either one.)
 
 This will open the page to be edited. You'll see the title of the page in the small text box, and the main content of the page in the large text box.
 
-<a href="/images/PageEditing.png"><img class="aligncenter" alt="Page Editing" src="/images/PageEditing.png" /></a>
+<a data-mediabox href="/images/PageEditing.png"><img class="aligncenter" alt="Page Editing" src="/images/PageEditing.png" /></a>
 
 At this point, you are ready to edit the content!
 
@@ -55,7 +55,7 @@ At this point, you are ready to edit the content!
 
 You'll notice that the main content box has two tabs, one for "Visual" editing and one for "Text" editing. The "Text" side of the editor shows plain text HTML. If you're inserting anything in HTML, you'll need to use the Text side of the window -- for example, code for an embedded video from Youtube video will need to pasted in as plain text. (We'll cover embedding video later.)
 
-<a href="/images/VisualText.png"><img class="aligncenter" alt="Visual/Text tabs." src="/images/VisualText.png" /></a> 
+<a data-mediabox href="/images/VisualText.png"><img class="aligncenter" alt="Visual/Text tabs." src="/images/VisualText.png" /></a> 
 
 <p class="center">Look to the top right of the main content box for the Visual/Text tabs.</p>
 
@@ -67,13 +67,13 @@ Alternately, if you're interested in learning more about formatting text using H
 
 One important button to note here is the "kitchen sink" button.  It is on the far right of the tools, and clicking it will expand all (the whole kitchen sink) of the formatting tools.  You can hold your mouse over any of the tool icons to find out what they do.
 
-<a href="/images/KitchenSinkButton.png"><img class="aligncenter" alt="expand kitchen sink" src="/images/KitchenSinkButton.png" /></a>
+<a data-mediabox href="/images/KitchenSinkButton.png"><img class="aligncenter" alt="expand kitchen sink" src="/images/KitchenSinkButton.png" /></a>
 
 <p class="center">Click this button to expand the "Kitchen Sink" editing toolbar.</p>
 
 The most useful tool in the kitchen sink toolbar is the dropdown menu which sets specific content types: paragraph, address, preformatted and headings. <strong>Headings are especially important.</strong>  Using headings to section off your content is a great way to help readers understand what sections are about, and to help search engines find your content.  Heading 1 is the largest, and Heading 6 is the smallest.
 
-<a href="/images/DropdownKitchenSink.png"><img class="aligncenter" alt="Dropdown Kitchen Sink" src="/images/DropdownKitchenSink.png" /></a>
+<a data-mediabox href="/images/DropdownKitchenSink.png"><img class="aligncenter" alt="Dropdown Kitchen Sink" src="/images/DropdownKitchenSink.png" /></a>
 
 <p class="center">Here you can select which size of heading you'd like to use.</p>
 
@@ -83,7 +83,7 @@ Other than the dropdown type selector, the Visual editor in Wordpress works basi
 
 If you make a mistake or formatting goes wrong, you can always clear it and start over by highlighting the problem area and clicking the "remove formatting" tool, which looks like an eraser.  This won't delete your text, it will just remove all of the styles applied to it so you can start formatting it fresh.
 
-<a href="/images/RemoveFormattingButton.png"><img class="aligncenter" alt="Remove Formatting Button" src="/images/RemoveFormattingButton.png" /></a>
+<a data-mediabox href="/images/RemoveFormattingButton.png"><img class="aligncenter" alt="Remove Formatting Button" src="/images/RemoveFormattingButton.png" /></a>
 
 <h3>Adding Links ("Hyperlinks")</h3>
 
@@ -101,7 +101,7 @@ One of the most common things people do on websites is create links to other web
 
 Once you've made some changes to the text, added headings, put in some links, etc. you'll want to save your changes.  To do this click on the blue "Update" button on the right side of the editing screen.
 
-<a href="/images/UpdateButton.png"><img class="aligncenter" alt="Update Button" src="/images/UpdateButton.png" /></a>
+<a data-mediabox href="/images/UpdateButton.png"><img class="aligncenter" alt="Update Button" src="/images/UpdateButton.png" /></a>
 
 <h2>Adding New Pages or Posts</h2>
 
@@ -113,11 +113,11 @@ It will take you to a new (blank) Page or Post.  Enter the title and start addi
 
 When you're finished Editing your new page or post, you can either save it as a draft (if you expect to change it some more later before making it live to the public.)
 
-<a href="/images/SaveDraftButton.png"><img class="aligncenter" alt="Save Draft Button" src="/images/SaveDraftButton.png" /></a>
+<a data-mediabox href="/images/SaveDraftButton.png"><img class="aligncenter" alt="Save Draft Button" src="/images/SaveDraftButton.png" /></a>
 
 <p class="center">Or click the blue button, which in the case of a new item says "Publish" instead.</p>
 
-<a href="/images/PublishButton.png"><img class="aligncenter" alt="Publish Button" src="/images/PublishButton.png" /></a>
+<a data-mediabox href="/images/PublishButton.png"><img class="aligncenter" alt="Publish Button" src="/images/PublishButton.png" /></a>
 
 <h2>Wrapping Up</h2>
 

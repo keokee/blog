@@ -5,9 +5,15 @@
     </small>
   </div>
 </footer>
-{% if site.enable_anchorjs %}<!-- AnchorJS -->
+<!-- AnchorJS -->
+{% if site.enable_anchorjs %}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.0.0/anchor.min.js"></script>
 <script>
     anchors.options.visible = 'always';
     anchors.add('article h2, article h3, article h4, article h5, article h6');
-</script>{% endif %}
+</script>
+{% endif %}
+<!-- Lightbox -->
+{% if site.enable_Lightbox %}
+<script type="text/javascript" src="/js/wa-mediabox.min.js"></script>
+{% endif %}
