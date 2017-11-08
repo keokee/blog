@@ -13,25 +13,27 @@ by <a title="Benjamin Robinson" href="https://plus.google.com/u/2/10561742652119
 If you missed it, make sure you check out <a title="Getting started with WordPress: An intro" href="http://keokee.com/blog/getting-started-with-wordpress-an-intro/">the Introduction post.</a>
 
 There are two primary content building blocks in Wordpress: Posts &amp; Pages. Understanding the difference between how they're intended to be used will help you to correctly decide which is appropriate for new content that you want to add to your website, and to help you determine where current content might be stored so you can edit it.
+
 <h2>Pages vs. Posts</h2>
-Here is a simple explanation of the two:<!--more-->
-<ul>
+
+Here is a simple explanation of the two:
+
 <ul>
 	<li><strong>Pages</strong> are permanent content, the things that appear on the website's navigational menu: <em>Home</em>, <em>About Us</em>, etc., are usually pages. Pages cannot be categorized, and they are not usually intended to be listed by date, alphabetical order or author name.</li>
 	<li><strong>Posts</strong> are news articles, blog entries or items that are otherwise intended to be dated, categorized and listed as articles (by author name, date, title, etc.). Often, a page contains a list of posts. Usually, individual posts do not appear on the website's menu -- if you think something should be listed on the menu, generally it should be a Page, not a Post.</li>
 </ul>
-</ul>
+
 To use this Keokee blog as an example: on our menu, we have an <em>About</em> <strong>Page</strong> and three post Archive <strong>Pages</strong> containing <strong>lists of Posts</strong> in specific categories: <em>Company News</em>, <em>Marketing</em> and <em>Wordpress Resources</em>. We also have a Home page, which displays the contents of our most recent <strong>Posts</strong> by date (in order from newest to oldest).
 
 You can read more about the difference between pages and posts at this <a href="http://en.support.wordpress.com/post-vs-page/">Wordpress support page regarding Pages vs. Posts</a>.
 <h2>Editing Text on Pages and Posts</h2>
 While the two have different purposes and usually appear in different ways on the site, editing their content is almost exactly the same.
 
-In the <a title="Getting started with WordPress: An intro" href="http://keokee.com/blog/getting-started-with-wordpress-an-intro/">previous post</a>, we learned how to log in, and landed on the "Dashboard" screen. The dashboard is the opening screen, but there's not usually a whole lot to see there. Most of the time, you'll want to edit your posts or pages.
-<h2><span style="font-size: 1.285714286rem; line-height: 1.6;">Exploring the Editing Screen</span></h2>
+In the <a title="Getting started with WordPress: An intro" href="/getting-started-wordpress-intro/">previous post</a>, we learned how to log in, and landed on the "Dashboard" screen. The dashboard is the opening screen, but there's not usually a whole lot to see there. Most of the time, you'll want to edit your posts or pages.
+<h2>Exploring the Editing Screen</h2>
 The main menu in Wordpress is located on the left side of the screen.
 
-<a href="http://keokee.com/blog/wp-content/uploads/2013/06/DashboardMenuCircled.png"><img class="aligncenter size-large wp-image-201" alt="DashboardMenuCircled" src="http://keokee.com/blog/wp-content/uploads/2013/06/DashboardMenuCircled-1024x503.png" width="625" height="307" /></a>
+<a href="/images/DashboardMenuCircled.png"><img class="aligncenter" alt="Dashboard Menu" src="/images/DashboardMenuCircled.png" /></a>
 
 Posts and Pages are listed here, near the top. Any special types of content (custom post types) will also be listed here (examples of custom posts might be: Staff Member Profiles, Products, etc.) From the menu, we can view all of the posts/pages, add new ones and view existing categories and tags.
 
@@ -39,7 +41,7 @@ We'll start by editing an existing Page. To do this, click on "Pages" or "Pages 
 
 If your site is brand new, you may have only a "Sample Page." If someone set up your site for you, you may have other pages listed.
 
-<a href="http://keokee.com/blog/wp-content/uploads/2013/06/PagesList.png"><img class="aligncenter size-large wp-image-205" alt="PagesList" src="http://keokee.com/blog/wp-content/uploads/2013/06/PagesList-1024x606.png" width="625" height="369" /></a>
+<a href="/images/PagesList.png"><img class="aligncenter" alt="Pages List" src="/images/PagesList.png" /></a>
 
 To edit any of the listed pages, click on its name, or highlight its name and select "Edit". (Again, either one.)
 
@@ -53,7 +55,9 @@ At this point, you are ready to edit the content!
 
 You'll notice that the main content box has two tabs, one for "Visual" editing and one for "Text" editing. The "Text" side of the editor shows plain text HTML. If you're inserting anything in HTML, you'll need to use the Text side of the window -- for example, code for an embedded video from Youtube video will need to pasted in as plain text. (We'll cover embedding video later.)
 
-<a href="/images/VisualText.png"><img class="aligncenter" alt="Visual/Text tabs." src="/images/VisualText.png" /></a> Look to the top right of the main content box for the Visual/Text tabs.
+<a href="/images/VisualText.png"><img class="aligncenter" alt="Visual/Text tabs." src="/images/VisualText.png" /></a> 
+
+<p class="center">Look to the top right of the main content box for the Visual/Text tabs.</p>
 
 <strong>Another important note about the two modes of editing: if you're pasting from a Word document or another program that contains formatting, it's best to paste your text into the "Text" side of the window and then format the document (bold, italic, etc.) using the "Visual" editor. Pasting it directly into the visual side of the window may drag in styles that will be confounding and look bad in a web format.</strong>
 
@@ -63,11 +67,15 @@ Alternately, if you're interested in learning more about formatting text using H
 
 One important button to note here is the "kitchen sink" button.  It is on the far right of the tools, and clicking it will expand all (the whole kitchen sink) of the formatting tools.  You can hold your mouse over any of the tool icons to find out what they do.
 
-<a href="/images/KitchenSinkButton.png"><img class="aligncenter" alt="expand kitchen sink" src="/images/KitchenSinkButton.png" /></a> Click this button to expand the "Kitchen Sink" editing toolbar.
+<a href="/images/KitchenSinkButton.png"><img class="aligncenter" alt="expand kitchen sink" src="/images/KitchenSinkButton.png" /></a>
+
+<p class="center">Click this button to expand the "Kitchen Sink" editing toolbar.</p>
 
 The most useful tool in the kitchen sink toolbar is the dropdown menu which sets specific content types: paragraph, address, preformatted and headings. <strong>Headings are especially important.</strong>  Using headings to section off your content is a great way to help readers understand what sections are about, and to help search engines find your content.  Heading 1 is the largest, and Heading 6 is the smallest.
 
-<a href="/images/DropdownKitchenSink.png"><img class="aligncenter" alt="Dropdown Kitchen Sink" src="/images/DropdownKitchenSink.png" /></a> Here you can select which size of heading you'd like to use.
+<a href="/images/DropdownKitchenSink.png"><img class="aligncenter" alt="Dropdown Kitchen Sink" src="/images/DropdownKitchenSink.png" /></a>
+
+<p class="center">Here you can select which size of heading you'd like to use.</p>
 
 To practice using headings, try typing in: "Example Heading" into the content box.  Select it and then use the dropdown to select "Heading 1."  It should get bigger and bolder to reflect the change.  It will probably also clear any text that might have been next to it.  Headings are typically styled to be the only text on their line, to signal a change in topic.
 
@@ -107,7 +115,7 @@ When you're finished Editing your new page or post, you can either save it as a 
 
 <a href="/images/SaveDraftButton.png"><img class="aligncenter" alt="Save Draft Button" src="/images/SaveDraftButton.png" /></a>
 
-Or click the blue button, which in the case of a new item says "Publish" instead.
+<p class="center">Or click the blue button, which in the case of a new item says "Publish" instead.</p>
 
 <a href="/images/PublishButton.png"><img class="aligncenter" alt="Publish Button" src="/images/PublishButton.png" /></a>
 
