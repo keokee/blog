@@ -6,7 +6,7 @@ summary:    In our first two "Getting Started with Wordpress" tutorials, we cove
 categories: wordpress-resource
 ---
 
-by <a title="Benjamin Robinson" href="https://plus.google.com/u/2/105617426521194863864?rel=author" target="_blank">
+by <a title="Benjamin Robinson" href="https://plus.google.com/u/2/105617426521194863864?rel=author" target="_blank">Benjamin Robinson</a>
 
 ***
 
@@ -124,7 +124,7 @@ The settings this time are:
 </ol>
 <strong>Congratulations, you should see a box added for the gallery.</strong> You can click on the picture icon that appears in the upper left corner when you select the gallery block to edit it:
 
-<a href="/images/GalleryEditExample.png"><img class="aligncenter" src="/images/GalleryEditExample.png" /></a>
+<a data-mediabox href="/images/GalleryEditExample.png"><img class="aligncenter" src="/images/GalleryEditExample.png" /></a>
 
 Preview or publish your post/page to see it.
 
