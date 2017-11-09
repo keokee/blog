@@ -48,6 +48,19 @@
   html {
     font-size: 18px;
   }
+  .alignleft {
+    float: left;
+    margin-right: 1rem;
+  }
+  .alignright {
+    float: right;
+    margin-left: 1rem;
+  }
+  aside {
+    max-width: 300px;
+    float: right;
+    margin-left: 1rem;
+  }
 }
 
 @media screen and (min-width: $viewport-large) {
