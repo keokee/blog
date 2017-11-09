@@ -3,7 +3,7 @@ layout:     post
 title:      "'Keokee presses past quarter century' looks at our history"
 date:       2015-06-08
 summary:    "Keokee hit its silver anniversary in May, marking <strong>the 25th year since the company began</strong> on a shoestring in May 1990."
-categories: 
+categories: company-news
 ---
 
 by Chris Bessler
