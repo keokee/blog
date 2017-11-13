@@ -3,7 +3,7 @@ layout:     post
 title:      Pinterest introduces Place Pins
 date:       2013-12-03
 summary:    Many businesses in our hometown of Sandpoint - as in other vacation destinations - depend on travelers. This week brought some exciting news particularly for lodging, restaurant and retail businesses that cater to tourists. Pinterest introduced Place Pins to make its website more useful for travel.
-categories: marketing social-media
+categories: ['Marketing', 'Social Media']
 ---
 
 by Katie Kosaya

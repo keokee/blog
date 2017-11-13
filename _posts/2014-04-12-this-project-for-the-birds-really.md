@@ -3,7 +3,7 @@ layout:     post
 title:      This project is for the birds. Really is.
 date:       2014-04-12
 summary:    "One of the most fun projects we have carried out with our own publications the last couple years has been <strong>the osprey and eagle cams</strong> we stream live onto our community portal website"
-categories: marketing
+categories: ['Marketing']
 ---
 
 by Chris Bessler

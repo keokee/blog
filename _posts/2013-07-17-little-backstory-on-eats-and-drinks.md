@@ -3,7 +3,7 @@ layout:     post
 title:      A little backstory on 'Eats & Drinks'
 date:       2013-07-17
 summary:    The new Summer 2013 Eats &amp; Drinks Pocket Guide is out and in distribution around town. This is a product we developed about six years ago in response to a need by both visitors to town looking for good places to eat, and the restaurants who want to connect to those hungry folks.
-categories: company-news marketing
+categories: ['Company News', 'Marketing']
 ---
 
 <a href="/images/Eats-Drinks.jpg"><img style="max-width: 400px;" class="alignright" alt="Eats &amp; Drinks" src="/images/Eats-Drinks.jpg" /></a>The new Summer 2013 **Eats &amp; Drinks Pocket Guide** is out and in distribution around town. This is a product we developed about six years ago in response to a need by both visitors to town looking for good places to eat, and the restaurants who want to connect to those hungry folks.

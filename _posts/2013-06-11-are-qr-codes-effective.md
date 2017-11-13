@@ -3,7 +3,7 @@ layout:     post
 title:      Are those QR codes effective, or not?
 date:       2013-06-11
 summary:    QR codes, those scrambled-egg bar codes that appear on advertisements or packaging for smart phone users to scan and see a web page, are getting the heave-ho by many marketers. As they take up valuable real estate in an ad (and are pretty ugly to boot) it's good to ask, "Are QR codes actually effective?"
-categories: marketing
+categories: ['Marketing']
 ---
 
 <a href="/images/QRCode.png"><img class="aligncenter" title="QR Code" alt="QR Code" src="/images/QRCode.png" /></a>

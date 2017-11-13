@@ -3,7 +3,7 @@ layout:     post
 title:      Free WordPress Plugin - Responsive Image Widget
 date:       2013-07-05
 summary:    Here is the first freely available plugin we've produced!
-categories: wordpress-resource
+categories: ['WordPress Resource']
 ---
 
 by <a href="https://plus.google.com/u/2/105617426521194863864?rel=author">Benjamin Robinson</a>

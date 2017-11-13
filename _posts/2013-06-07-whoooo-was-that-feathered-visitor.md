@@ -3,7 +3,7 @@ layout:     post
 title:      Whoooo was that feathered visitor?
 date:       2013-06-07
 summary:    We like our human visitors, but they generally can't match the cuteness factor of this baby great horned owl that came by our office yesterday.
-categories: company-news
+categories: ['Company News']
 ---
 
 <a data-mediabox href="/images/baby_owl.jpg"><img style="max-width: 400px;" class="alignleft" alt="Baby great horned owl at Keokee offices with Blake Schiöberg of Birds of Prey Northwest" src="/images/baby_owl.jpg" /></a>

@@ -3,7 +3,7 @@ layout:     post
 title:      Social media roaring ahead in 2013
 date:       2013-08-07
 summary:    A 4-minute long update on social media trends and statistics from Erik Qualman, author of Socialnomics, and Hult International Business School and a few key takeaways.
-categories: marketing social-media
+categories: ['Marketing', 'Social Media']
 ---
 
 By Katie Kosaya

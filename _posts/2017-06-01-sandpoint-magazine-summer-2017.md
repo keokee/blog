@@ -3,7 +3,7 @@ layout:     post
 title:      "Sandpoint Magazine's Summer 2017 issue is here!"
 date:       2017-06-01
 summary:    "The new issue of Sandpoint Magazine just hit the streets Friday, and it's already creating a buzz with its incredible cover kayaking photo taken by Woods Wheatcroft."
-categories: company-news
+categories: ['Company News']
 ---
 
 by Chris Bessler

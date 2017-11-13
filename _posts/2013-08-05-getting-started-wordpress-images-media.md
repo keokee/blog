@@ -3,7 +3,7 @@ layout:     post
 title:      Getting Started with Wordpress - Images &amp; Media
 date:       2013-08-05
 summary:    In our first two "Getting Started with Wordpress" tutorials, we covered logging into WordPress, and working with text content in your posts and pages. In this third installment we'll tell how to add pictures, galleries and videos.
-categories: wordpress-resource
+categories: ['WordPress Resource']
 ---
 
 by <a title="Benjamin Robinson" href="https://plus.google.com/u/2/105617426521194863864?rel=author" target="_blank">Benjamin Robinson</a>

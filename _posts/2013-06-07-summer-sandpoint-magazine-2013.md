@@ -3,7 +3,7 @@ layout:     post
 title:      Summer Sandpoint Magazine stirs it up
 date:       2013-06-07
 summary:    Our new Summer 2013 Sandpoint Magazine hit the street on May 16, and feedback has been very positive.
-categories: company-news marketing social-media
+categories: ['Company News', 'Marketing', 'Social Media']
 ---
 
 <img class="alignleft" alt="Sandpoint Magazine Summer 2013" src="/images/Sandpoint-Magazine-Summer-2013.png" />

@@ -3,7 +3,7 @@ layout:     post
 title:      How Instagram is Killing Vine
 date:       2013-07-03
 summary:    A few weeks ago at a press event at Facebook’s headquarters, Instagram CEO Kevin Systrom announced a new feature called “Video On Instagram.” It allows users to create 15-second videos on their smart phones, edit using 13 new filters, and share the results on different social networks.
-categories: marketing social-media
+categories: ['Marketing', 'Social Media']
 ---
 
 A few weeks ago at a press event at Facebook’s headquarters, Instagram CEO Kevin Systrom announced a new feature called “Video On Instagram.” It allows users to create 15-second videos on their smart phones, edit using 13 new filters, and share the results on different social networks. It's part of a new trend among marketers to use "micro" video clips of only a few seconds, and is effectively **the Instagram response to Twitter's new Vine micro-video app** -- **raising the question as to which service is superior?**

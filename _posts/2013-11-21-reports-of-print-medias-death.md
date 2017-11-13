@@ -3,7 +3,7 @@ layout:     post
 title:      Reports of print media's death (sort of) exaggerated
 date:       2013-11-21
 summary:    We're winding up our biggest publishing season of the year, having just finished the autumn production of the three magazines we publish. Schweitzer Magazine, released in October; Sandpoint Magazine on Nov. 1; and, just now shipped to the printer, Flyfisher magazine. We're happy with the final products in all three cases, and the feedback on each so far has been excellent. Our goal, of course is to produce compelling publications people want to read. If we succeed with that, then we deliver premium exposure for our advertisers.
-categories: company-news marketing
+categories: ['Company News', 'Marketing']
 ---
 
 By Chris Bessler

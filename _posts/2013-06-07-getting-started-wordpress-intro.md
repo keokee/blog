@@ -3,7 +3,7 @@ layout:     post
 title:      Getting started with Wordpress - An intro
 date:       2014-06-10 12:31:19
 summary:    While we design custom websites from scratch, we're very big advocates of the industry trend that is putting website content management in the hands of the website owners with easy to use, non-technical tools. One of our favorite platforms for this is Wordpress.
-categories: wordpress-resource
+categories: ['WordPress Resource']
 ---
 
 by <a href="https://plus.google.com/u/2/105617426521194863864?rel=author">Benjamin Robinson</a>

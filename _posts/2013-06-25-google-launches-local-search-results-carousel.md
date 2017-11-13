@@ -3,7 +3,7 @@ layout:     post
 title:      Google Launches Local Search Results Carousel
 date:       2013-06-25
 summary:    Google users and the local businesses in the US are already noticing the new Carousel design for the Google local search results. The Carousel makes online browsing a more visual experience, it works especially well with the local results for restaurants, hotels, and points of interest.
-categories: marketing seo
+categories: ['Marketing', 'SEO']
 ---
 
 By <a href="https://plus.google.com/u/1/107382610679855429570?rel=author">Katie Kosaya</a>

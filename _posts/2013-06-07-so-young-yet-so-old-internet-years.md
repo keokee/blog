@@ -3,7 +3,7 @@ layout:     post
 title:      So young, yet so old (in Internet years)
 date:       2013-06-07
 summary:    Here's a bit of interesting lore, a copy of one of the very first web pages used as a demo at a computing conference in 1991
-categories: company-news html-resources marketing SEO social-media
+categories: ['Company News', 'HTML Resources', 'Marketing', 'SEO', 'Social Media']
 ---
 
 Here's a bit of interesting lore (for the Internet-minded): <strong>a copy of one of the very first web pages</strong>, used as a demo at a computing conference in 1991 about a year after the initial introduction of hypertext markup language - in other words, the invention of the World Wide Web. You can see it here: <a title="First web page" href="http://www.ibiblio.org/pjones/old.page.html" target="_blank">http://www.ibiblio.org/pjones/old.page.html</a>

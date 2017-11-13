@@ -3,7 +3,7 @@ layout:     post
 title:      5 Steps to Get Started with Social Media
 date:       2013-06-11
 summary:    Social media for small businesses is mainly about building brand awareness and encouraging engagement with leads and customers, but it should have a direct impact on your bottom line, too. Social media presence can help you achieve greater brand awareness, better online reputation, improved customer service/experience.
-categories: marketing social-media
+categories: ['Marketing', 'Social Media']
 ---
 
 by <a href="https://plus.google.com/u/1/107382610679855429570?rel=author">Katie Kosaya</a>

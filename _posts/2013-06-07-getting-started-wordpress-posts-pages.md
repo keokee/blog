@@ -3,7 +3,7 @@ layout:     post
 title:      Getting Started with Wordpress Posts &amp; Pages
 date:       2013-06-07
 summary:    There are two primary content building blocks in Wordpress. Posts &amp; Pages. Understanding the difference between how they're intended to be used will help you to correctly decide which is appropriate for new content that you want to add to your website, and to help you determine where current content might be stored so you can edit it.
-categories: wordpress-resource
+categories: ['WordPress Resource']
 ---
 
 by <a title="Benjamin Robinson" href="https://plus.google.com/u/2/105617426521194863864?rel=author" target="_blank">Benjamin Robinson</a>

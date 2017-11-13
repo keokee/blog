@@ -1,14 +1,26 @@
 <header class="site-header px2 px-responsive">
   <div class="mt2 wrap">
     <div class="measure">
-      <a href="{{ site.url }}" class="site-title">{{ site.title }}</a>
       <nav class="site-nav">
+        <a href="{{ site.url }}">Home</a>
         {% include navigation.html %}
       </nav>
       <div class="clearfix"></div>
       {% if site.show_social_icons %}
         {% include social_links.html %}
       {% endif %}
+    </div>
+  </div>
+  <div class="bumper"></div>
+  <div class="mb2 wrap">
+    <div class="measure">
+      <nav class="site-nav">
+      {% for category in site.categories %}
+        {% capture category_name %}{{ category | first }}{% endcapture %}
+        <a href="#">{{ category_name }}</a>
+      {% endfor %}
+      </nav>
+      <div class="clearfix"></div>
     </div>
   </div>
 </header>

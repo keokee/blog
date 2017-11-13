@@ -3,7 +3,7 @@ layout:     post
 title:      Five WordPress Plugins We Love
 date:       2013-06-13
 summary:    We build many sites in WordPress. Plugins are little third-party WordPress applications that can provide a quick and inexpensive way to solve problems and provide complex functionality without incurring the cost of custom programming. While it can slow a site down and cause problems to have too many plugins installed there are a number of plugins that provide some really neat effects and functionality, and almost always work great.
-categories: wordpress-resource
+categories: ['WordPress Resource']
 ---
 
 By <a href="https://plus.google.com/u/1/105617426521194863864?rel=author">Benjamin Robinson</a>

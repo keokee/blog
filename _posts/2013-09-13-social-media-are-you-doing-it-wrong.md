@@ -3,7 +3,7 @@ layout:     post
 title:      Social media - Are you doing it wrong?
 date:       2013-09-13
 summary:    Your goal with social media shouldn't be to simply "Get 250 new likes on Facebook" or "Get 700 new followers on Pinterest." But rather, your goal should always be "Increase my visibility and sell more products/services." Important questions to ask yourself, "What am I going to do with all of the people who liked my page on Facebook? What is the real goal of maintaining my social media presence?""
-categories: marketing social-media
+categories: ['Marketing', 'Social Media']
 ---
 
 By Katie Kosaya

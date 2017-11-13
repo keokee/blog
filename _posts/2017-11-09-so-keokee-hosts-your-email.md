@@ -3,7 +3,7 @@ layout:     post
 title:      "So, Keokee hosts your email. Now what?"
 date:       2017-11-09
 summary:    "Have you found yourself needing to set up your email again, but can't find the information?  Or, are you new to your office? Whatever the reason, follow the steps below to get up and running with your Keokee provided email in a jiffy."
-categories: tech-resource
+categories: ['Tech Resources']
 ---
 
 by Landon Otis
