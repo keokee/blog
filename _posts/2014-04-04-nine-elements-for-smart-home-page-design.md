@@ -3,7 +3,7 @@ layout:     post
 title:      "Nine elements for a <em>smart</em> home page design"
 date:       2014-04-04
 summary:    "As a web designer, I often find myself very concerned with the overall visual appearance of a website: Is it clean enough? Do the fonts look nice? Is it attractive?"
-categories: ['Html Resources', 'Marketing', 'WordPress Resource']
+categories: ['HTML Resources', 'Marketing', 'WordPress Resource']
 ---
 
 by Benjamin Robinson
