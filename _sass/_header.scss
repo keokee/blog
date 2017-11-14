@@ -1,6 +1,6 @@
 .site-header {
   padding-top: $space-1;
-  padding-bottom: $space-2;
+  padding-bottom: $space-1;
   background-image: url('/images/K.png');
   background-color: #e8f0f2;
   background-repeat: no-repeat;
@@ -39,13 +39,20 @@
   margin-left: 1em;
 }
 
-.site-nav.categories a + a {
-  margin-left: 0;
-}
+.site-header .site-nav.categories {
+	float: none;
 
-.site-nav.categories a + a:before {
-  content: '\2022';
-  margin: 0 0.25em;
+	a {
+		font-size: 14px;
+		+ a {
+			margin-left: 0;
+			&:before {
+				content: '\2022';
+				margin: 0 0.25em;
+			}
+		}
+	}
+
 }
 
 .site-header a:hover,
