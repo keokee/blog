@@ -12,9 +12,9 @@
     </div>
   </div>
   <div class="bumper"></div>
-  <div class="mb2 wrap">
+  <div class="wrap">
     <div class="measure">
-      <nav class="site-nav">
+      <nav class="site-nav categories">
       {% for category in site.categories %}
         {% capture category_name %}{{ category | first }}{% endcapture %}
         <a href="#">{{ category_name }}</a>

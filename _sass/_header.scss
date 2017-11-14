@@ -39,6 +39,15 @@
   margin-left: 1em;
 }
 
+.site-nav.categories a + a {
+  margin-left: 0;
+}
+
+.site-nav.categories a + a:before {
+  content: '\2022';
+  margin: 0 0.25em;
+}
+
 .site-header a:hover,
 .posts .post a:hover .post-meta,
 .posts .post a:hover .post-title,
